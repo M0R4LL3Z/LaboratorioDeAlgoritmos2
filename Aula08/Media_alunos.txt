@@ -1,0 +1,6 @@
+Bruno:7.0
+Arthur:5.0
+Matheus:10.0
+Ana:3.0
+Maria:7.0
+Bruna:6.0

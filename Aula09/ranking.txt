@@ -1,0 +1,5 @@
+Ana:1000
+ Gabriel:850
+ Matheus:850
+ Alemao:800
+ Paulo:700
